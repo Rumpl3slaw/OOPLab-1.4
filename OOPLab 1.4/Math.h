@@ -20,5 +20,4 @@ public:
 	int Dodavannya();
 	int Vidnimannya();
 	int Mnojennya();
-
 };
